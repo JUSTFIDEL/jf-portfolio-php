@@ -38,7 +38,13 @@ if ($_POST) {
                  'X-Mailer: PHP/' . phpversion();
 
 
-        mail($to, $subject, $message, $headers);
+       if ( mail($to, $subject, $message, $headers) ) {
+        $successMessage = '<div class="alert alert-success" role="alert"><p><strong>Message was sent successfully.</strong></p></div>';
+
+       } else {
+        $error = '<div class="alert alert-danger" role="alert"><p><strong>There wes an error sending your message.</strong></p></div>';
+
+       };
 
         
     }
