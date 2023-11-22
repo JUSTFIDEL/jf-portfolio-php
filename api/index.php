@@ -59,7 +59,7 @@ if ($_POST) {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-    <link rel="stylesheet" href="../public/css/styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
   </head>
   
   
@@ -72,7 +72,7 @@ if ($_POST) {
             <div class="left-header">
                 <div class="h-shape"></div>
                 <div class="image">
-                    <img src="../public/images/jf-2.png" alt="justfidel">
+                    <img src="../images/jf-2.png" alt="justfidel">
                 </div>
             </div>
             <div class="right-header">
@@ -303,7 +303,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img  src="../public/images/nl1-w.png" alt="JF-Newsletter">
+                        <img  src="/images/nl1-w.png" alt="JF-Newsletter">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -320,7 +320,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img  src="../public/images/tesla11.png" alt="JF-Tesla">
+                        <img  src="./images/tesla11.png" alt="JF-Tesla">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -337,7 +337,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="../public/images/manage-w.png" alt="JF-Manage Homepage">
+                        <img src="/public/images/manage-w.png" alt="JF-Manage Homepage">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -354,7 +354,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="../public/images/promptopia.png" alt="JF-Promptopia">
+                        <img src="../images/promptopia.png" alt="JF-Promptopia">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -371,7 +371,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="../public/images/dice-w.png" alt="JF-Dicee">
+                        <img src="./images/dice-w.png" alt="JF-Dicee">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -388,7 +388,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="../public/images/jf-ecom.png" alt="JF-ecommerce">
+                        <img src="/images/jf-ecom.png" alt="JF-ecommerce">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
