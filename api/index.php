@@ -53,7 +53,7 @@ if ($_POST) {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="./images/favicon.ico">
+    <link rel="icon" href="../images/favicon.ico">
     <title>JF-Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -87,7 +87,7 @@ if ($_POST) {
                 </p>
                 
                 <div class="btn-container">
-                    <a href="./folder/resume.pdf" class="main-btn" download>
+                    <a href="../folder/resume.pdf" class="main-btn" download>
                         <span class="btn-text">Download CV</span>
                         <span class="btn-icon"><i class="fa-solid fa-download"></i></span>
                     </a>
@@ -303,7 +303,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img  src="./images/nl1-w.png" alt="JF-Newsletter">
+                        <img  src="../images/nl1-w.png" alt="JF-Newsletter">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -354,7 +354,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="./images/promptopia.png" alt="JF-Promptopia">
+                        <img src="../images/promptopia.png" alt="JF-Promptopia">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -697,7 +697,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
 
 
-    <script defer src="../index.js"></script>
+    <script defer src="../js/index.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
