@@ -40,6 +40,9 @@ if ($_POST) {
 
        if ( mail($to, $subject, $message, $headers) ) {
         $successMessage = '<div class="alert alert-success" role="alert"><p><strong>Message was sent successfully.</strong></p></div>';
+        header('Location: https://jf-portfolio-php.vercel.app/');
+
+exit;
 
        } else {
         $error = '<div class="alert alert-danger" role="alert"><p><strong>There wes an error sending your message.</strong></p></div>';
