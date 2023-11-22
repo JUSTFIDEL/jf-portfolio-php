@@ -53,13 +53,13 @@ if ($_POST) {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="./images/favicon.ico">
+    <link rel="icon" href="../images/favicon.ico">
     <title>JF-Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
   </head>
   
   
@@ -72,7 +72,7 @@ if ($_POST) {
             <div class="left-header">
                 <div class="h-shape"></div>
                 <div class="image">
-                    <img src="./images/jf-2.png" alt="justfidel">
+                    <img src="../images/jf-2.png" alt="justfidel">
                 </div>
             </div>
             <div class="right-header">
@@ -110,7 +110,7 @@ if ($_POST) {
 A Well organised person, problem solver and a freelancer with high attention to details. </br></br>I love to learn from other people's experiences and would love to work with positive minded people on various projects to achieve a greater height.
                     </p>
                     <div class="btn-container">
-                        <a href="./folder/resume.pdf" class="main-btn" download>
+                        <a href="../folder/resume.pdf" class="main-btn" download>
                             <span class="btn-text">Download CV</span>
                             <span class="btn-icon"><i class="fa-solid fa-download"></i></span>
                         </a>
@@ -320,7 +320,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img  src="./images/tesla11.png" alt="JF-Tesla">
+                        <img  src="../images/tesla11.png" alt="JF-Tesla">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -337,7 +337,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="./images/manage-w.png" alt="JF-Manage Homepage">
+                        <img src="../images/manage-w.png" alt="JF-Manage Homepage">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -371,7 +371,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="./images/dice-w.png" alt="JF-Dicee">
+                        <img src="../images/dice-w.png" alt="JF-Dicee">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -388,7 +388,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="./images/jf-ecom.png" alt="JF-ecommerce">
+                        <img src="../images/jf-ecom.png" alt="JF-ecommerce">
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -697,7 +697,7 @@ A Well organised person, problem solver and a freelancer with high attention to 
 
 
 
-    <script defer src="./index.js"></script>
+    <script defer src="../index.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
